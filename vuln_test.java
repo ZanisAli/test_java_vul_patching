@@ -28,7 +28,6 @@ public class VulnerableFunctions {
     public void connectToDatabase() {
     String username = "admin";
     String password = "password123";
-    // Use credentials to connect to the database
     }
 
     public void destroy() {
